@@ -4,7 +4,7 @@
 This project explores the MavenMovies database to extract valuable business insights using SQL. By analyzing various tables related to films, customers, rentals, payments, and store performance, we aim to uncover patterns and trends that can help optimize business decisions.
 
 ## 🏗️ **Database Structure**
-https://github.com/Murli43/Maven_movies-MySQL/blob/main/Schema.png
+![Database Schema](https://github.com/Murli43/Maven_movies-MySQL/blob/main/Schema.png)
 
 ## 🎯 **Project Objectives**
 This analysis addresses key business questions such as:  
